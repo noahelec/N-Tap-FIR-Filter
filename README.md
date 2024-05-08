@@ -1,4 +1,4 @@
-# N-Tab FIR Filter in System Verilog
+# N-Tap FIR Filter in System Verilog
 Welcome to the N-Tab FIR Filter repository! This project contains a fully functional N-tap Finite Impulse Response (FIR) filter designed using System Verilog. The filter is aimed at digital signal processing applications where precision and efficiency are paramount.
 
 **Factors Affecting Maximum Sample Rate**
